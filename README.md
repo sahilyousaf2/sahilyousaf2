@@ -33,12 +33,12 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple" alt="Sahil's GitHub Stats" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=sahilyousaf2&show_icons=true&theme=midnight-purple" alt="Sahil's GitHub Stats" height="200px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple" alt="Sahil's Top Languages" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilyousaf2&layout=compact&theme=midnight-purple" alt="Sahil's Top Languages" height="200px" />
       </td>
     </tr>
   </table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=000000&color=7e15f7&line=7e15f7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilyousaf2&theme=react-dark&bg_color=000000&color=7e15f7&line=7e15f7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
