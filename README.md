@@ -2,18 +2,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=false&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Sahil+Yousaf+👨🏻‍💻;" />
 </h1>
 
-<h2 align="center">Tech Learner | DevOps Explorer | Content Creator 🚀🎥</h2>
+<h2 align="center">Tech Enthusiast | DevOps Learner | Aspiring Engineer 🚀</h2>
 
 <div align="center"> 
-  I’m <b>Sahil Yousaf</b> — a beginner who’s actively learning tech, experimenting with content creation, and building digital systems. I focus on practical learning and smart workflows to bridge the gap between code and content.
+  I’m <b>Sahil Yousaf</b> — a tech explorer who is actively learning, building, and growing. I focus on practical skills and hands-on projects to solve real-world problems.
  <br><br>
- ⚙️ <b>DevOps & Tech:</b> Currently diving deep into <b>Git, Docker, and AWS setup</b>. I believe in <i>"learning by doing"</i>—building infrastructure and deploying projects rather than just reading theory.
+ ⚙️ <b>DevOps Journey:</b> Currently mastering <b>Git, Docker, and AWS</b>. I believe in <i>"learning by doing"</i>—deploying environments and managing infrastructure to understand how modern software scale.
  <br><br>
- 🎥 <b>Content Creation:</b> Building and scaling online income streams via <b>YouTube, Reels, and Influencer pages</b>. I manage platforms like <i>Knowledge Nuggets</i> and <i>Drama One Pakistan</i>, focusing on smart, AI-based content production.
+ 💻 <b>Development:</b> Building clean and modern web applications using <b>Next.js and TypeScript</b>. I’m constantly experimenting with new frameworks and AI tools to improve my coding workflow.
  <br><br>
- 💻 <b>Development:</b> Experimenting with <b>Next.js and TypeScript</b> to create clean, functional web applications.
+ ⚡ <b>Current Focus:</b> I am dedicated to bridging the gap between development and operations. My goal is to become a proficient engineer who builds fast, reliable, and scalable systems.
  <br><br>
- ⚡ <b>Strategy:</b> I switch between tech and content creation smartly, always looking for fast and practical guidance to get things moving.
+ 🌱 <b>Personal Life:</b> Alongside my tech journey, I am currently <b>engaged</b> and balancing my professional growth with personal milestones, ensuring a focused and disciplined approach to life.
 </div>
 
 <br />
